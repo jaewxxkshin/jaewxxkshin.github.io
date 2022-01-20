@@ -19,8 +19,8 @@ locale                   : "ko-KR"
 title                    : "wxxk's dev_log"
 title_separator          : "|"
 subtitle                 : #"코드 조각"
-name                     : "이름 미정"
-description              : "설명 미정"
+name                     : "jaewxxkshin"
+description              : "Department of Mechanical System Design Engineering, SeoulTech"
 url                      : "https://jaewxxkshin.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,9 +102,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "jaewxxkshin"
+  name             : "이름 미정"
   avatar           : "/assets/images/logo.jpg"
-  bio              : "Department of Mechanical System Design Engineering, SeoulTech"
+  bio              : "설명 미정"
   location         : "Seoul"
   email            :
   links:

@@ -142,7 +142,7 @@
 
     .prev_next {
       font-family: $sans-serif;
-      color:#ffd861;
+      color:#DEB887;
     }
     &:hover {
       @include yiq-contrasted($muted-text-color);

@@ -1,9 +1,6 @@
 /* ==========================================================================
    SINGLE PAGE/POST
    ========================================================================== */
-.utterances {
-  max-width: 100% !important;
-}
 
 #main {
   @include clearfix;
@@ -277,7 +274,7 @@ body {
 
 .page__share-title {
   margin-bottom: 10px;
-  font-size: $type-size-6;
+  font-size: $type-size-5;
   text-transform: uppercase;
 }
 
@@ -301,17 +298,11 @@ body {
 }
 
 .page__meta-title {
+  margin-top: 1px;
   margin-bottom: 10px;
-  font-size: $type-size-6;
-  text-transform: uppercase;
+  font-size: $type-size-5;
 }
 
-
-.page__meta-sep::before {
-  content: "\2022";
-  padding-left: 0.5em;
-  padding-right: 0.5em;
-}
 
 /*
    Page taxonomy
@@ -324,6 +315,7 @@ body {
   }
 
   strong {
+
     margin-right: 10px;
   }
 }
@@ -337,7 +329,7 @@ body {
   border: 1px solid $background-color;
   border-radius: $border-radius;
   background-color: #4D5357;
-  font-family: $monospace;
+  font-family: $serif;
   color: $primary-color;
 
   &:hover {
@@ -355,7 +347,7 @@ body {
   border: 1px solid $background-color;
   border-radius: $border-radius;
   background-color: mix(#fff, #4D5357, 18%);
-  font-family: $monospace;
+  font-family: $serif;
   color: mix(#fff, $primary-color, 2%);;
 
   &:hover {
@@ -363,6 +355,7 @@ body {
     color: mix(#00adb5, $text-color, 40%); /* 커서 댈 때 색깔 */
   }
 }
+
 
 .taxonomy__section {
   margin-bottom: 2em;
@@ -401,7 +394,7 @@ body {
   grid-template-columns: repeat(2, 1fr);
   margin: 1.414em 0;
   padding: 0;
-  font-size: 0.75em;
+  font-size: 1.3em;
   list-style: none;
 
   @include breakpoint($large) {
@@ -416,9 +409,10 @@ body {
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
     justify-content: space-between;
-    color: inherit;
+    color: mix(#fff, $primary-color, 60%);
     text-decoration: none;
     border-bottom: 1px solid $border-color;
+    font-family: $serif;
   }
 }
 
@@ -426,7 +420,7 @@ body {
   display: block;
   clear: both;
   color: $muted-text-color;
-  font-size: 0.6em;
+  font-size: 0.9em;
   text-transform: uppercase;
   text-align: right;
   text-decoration: none;
@@ -530,6 +524,10 @@ body {
   }
 }
 
+.utterances {
+  max-width: 100% !important;
+}
+
 /*
    Related
    ========================================================================== */
@@ -563,7 +561,7 @@ body {
 .page__related-title {
   margin-bottom: 20px;
   font-size: $type-size-6;
-  color: #fcd14f;
+  //color: #fcd14f;
 }
 
 /*

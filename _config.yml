@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "wxxk's dev_log"
+title                    : "대추는 귀엽다"
 title_separator          : "|"
-subtitle                 : #"코드 조각"
+subtitle                 : #"귀여운 대추"
 name                     : "jaewxxkshin"
 description              : "Department of Mechanical System Design Engineering, SeoulTech"
 url                      : "https://jaewxxkshin.github.io"
@@ -102,9 +102,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "이름 미정"
+  name             : "귀여운 대추"
   avatar           : "/assets/images/logo.jpg"
-  bio              : "설명 미정"
+  bio              : "블로그형식 출처 : <https://ansohxxn.github.io/>"
   location         : "Seoul"
   email            :
   links:

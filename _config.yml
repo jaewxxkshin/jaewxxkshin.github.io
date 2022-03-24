@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "대추는 귀엽다"
+title                    : "wxxk's dev log"
 title_separator          : "|"
 subtitle                 : #"귀여운 대추"
 name                     : "jaewxxkshin"
@@ -102,9 +102,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "귀여운 대추"
+  name             : "wxxk's repository"
   avatar           : "/assets/images/logo.jpg"
-  bio              : "블로그형식 출처 : <https://ansohxxn.github.io/>"
+  bio              : "Zzz..."
   location         : "Seoul"
   email            :
   links:

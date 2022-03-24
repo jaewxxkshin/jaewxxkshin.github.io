@@ -12,7 +12,7 @@
       </li>
       <li>
         <!--span 태그로 카테고리들을 크게 분류 ex) C/C++/C#-->
-        <span class="nav__sub-title">Basic</span>
+        <span class="nav__sub-title">Study</span>
             <!--ul 태그로 같은 카테고리들 모아둔 페이지들 나열-->
             <ul>
                 <!--Cpp 카테고리 글들을 모아둔 페이지인 /categories/Cpp 주소의 글로 링크 연결-->
@@ -25,10 +25,17 @@
             </ul>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "STL" %}
-                        <li><a href="/categories/stl" class="">C++ STL & 표준 ({{category[1].size}})</a></li>
+                    {% if category[0] == "DSP" %}
+                        <li><a href="/categories/DSP" class="">신호 및 시스템 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
+            </ul>
+            <ul>
+                 {% for category in site.categories %}
+                     {% if category[0] == "OPIC" %}
+                          <li><a href="/categories/OPIC" class="">OPIC ({{category[1].size}})</a></li>
+                     {% endif %}
+                 {% endfor %}
             </ul>
         <span class="nav__sub-title">Dev</span>
             <ul>
@@ -42,6 +49,21 @@
                 {% for category in site.categories %}
                     {% if category[0] == "Cpp" %}
                         <li><a href="/categories/cpp" class="">C++ ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+        <span class="nav__sub-title">Project</span>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Capstone" %}
+                        <li><a href="/categories/capstone" class="">Capstone design ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "ComputerVision" %}
+                        <li><a href="/categories/ComputerVision" class="">Computer Vision ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>

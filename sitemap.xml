@@ -1,85 +1,153 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	  	  
+<!-- www.check-domains.com sitemap generator -->
+
 <url>
-<loc>https://jaewxxkshin.github.io/opencv/opencv-ch1/</loc>
-<lastmod>2022-01-18T00:00:00+09:00</lastmod>
+   <loc>https://jaewxxkshin.github.io/</loc>
+   <lastmod>2022-03-24T07:59:12+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>1.0000</priority>
 </url>
 <url>
-<loc>https://jaewxxkshin.github.io/opencv/opencv-ch2/</loc>
-<lastmod>2022-01-19T00:00:00+09:00</lastmod>
+   <loc>https://jaewxxkshin.github.io/page2/</loc>
+   <lastmod>2022-03-24T07:59:12+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
 </url>
 <url>
-<loc>https://jaewxxkshin.github.io/blog/blog-1/</loc>
-<lastmod>2022-01-20T00:00:00+09:00</lastmod>
+   <loc>https://jaewxxkshin.github.io/feed.xml</loc>
+   <lastmod>2022-03-24T07:52:44+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
 </url>
 <url>
-<loc>https://jaewxxkshin.github.io/blog/blog-2/</loc>
-<lastmod>2022-01-21T00:00:00+09:00</lastmod>
+   <loc>https://jaewxxkshin.github.io/categories/</loc>
+   <lastmod>2022-03-24T07:59:12+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
 </url>
 <url>
-<loc>https://jaewxxkshin.github.io/opencv/opencv-ch3-1/</loc>
-<lastmod>2022-01-25T00:00:00+09:00</lastmod>
+   <loc>https://jaewxxkshin.github.io/categories/blog</loc>
+   <lastmod>2022-03-24T07:59:12+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
 </url>
 <url>
-<loc>https://jaewxxkshin.github.io/opencv/opencv-ch3-2/</loc>
-<lastmod>2022-01-25T00:00:00+09:00</lastmod>
+   <loc>https://jaewxxkshin.github.io/categories/DSP</loc>
+   <lastmod>2022-03-24T07:59:12+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
 </url>
 <url>
-<loc>https://jaewxxkshin.github.io/opencv/opencv-ch4/</loc>
-<lastmod>2022-02-09T00:00:00+09:00</lastmod>
+   <loc>https://jaewxxkshin.github.io/categories/OPIC</loc>
+   <lastmod>2022-03-24T07:59:12+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
 </url>
 <url>
-<loc>https://jaewxxkshin.github.io/opencv/opencv-ch5-1/</loc>
-<lastmod>2022-02-10T00:00:00+09:00</lastmod>
+   <loc>https://jaewxxkshin.github.io/categories/opencv</loc>
+   <lastmod>2022-03-24T07:59:12+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
 </url>
 <url>
-<loc>https://jaewxxkshin.github.io/opencv/opencv-ch5-2/</loc>
-<lastmod>2022-02-10T00:00:00+09:00</lastmod>
+   <loc>https://jaewxxkshin.github.io/categories/cpp</loc>
+   <lastmod>2022-03-24T07:59:12+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
 </url>
 <url>
-<loc>https://jaewxxkshin.github.io/cpp/cpp-1/</loc>
-<lastmod>2022-03-24T00:00:00+09:00</lastmod>
+   <loc>https://jaewxxkshin.github.io/dsp/sns-1/</loc>
+   <lastmod>2022-03-24T07:59:12+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
 </url>
 <url>
-<loc>https://jaewxxkshin.github.io/opic/opic-1/</loc>
-<lastmod>2022-03-24T00:00:00+09:00</lastmod>
+   <loc>https://jaewxxkshin.github.io/tags/</loc>
+   <lastmod>2022-03-24T07:59:12+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
 </url>
 <url>
-<loc>https://jaewxxkshin.github.io/dsp/sns-1/</loc>
-<lastmod>2022-03-24T00:00:00+09:00</lastmod>
+   <loc>https://jaewxxkshin.github.io/opic/opic-1/</loc>
+   <lastmod>2022-03-24T07:59:12+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
 </url>
 <url>
-<loc>https://jaewxxkshin.github.io/categories/</loc>
+   <loc>https://jaewxxkshin.github.io/cpp/cpp-1/</loc>
+   <lastmod>2022-03-24T07:59:12+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
 </url>
 <url>
-<loc>https://jaewxxkshin.github.io/categories/blog</loc>
+   <loc>https://jaewxxkshin.github.io/opencv/opencv-ch5-2/</loc>
+   <lastmod>2022-03-24T07:59:12+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
 </url>
 <url>
-<loc>https://jaewxxkshin.github.io/categories/cpp</loc>
+   <loc>https://jaewxxkshin.github.io/opencv/opencv-ch5-1/</loc>
+   <lastmod>2022-03-24T07:59:12+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
 </url>
 <url>
-<loc>https://jaewxxkshin.github.io/categories/opencv</loc>
+   <loc>https://jaewxxkshin.github.io/page3/</loc>
+   <lastmod>2022-03-24T07:59:12+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
 </url>
 <url>
-<loc>https://jaewxxkshin.github.io/categories/OPIC</loc>
+   <loc>https://jaewxxkshin.github.io/opencv/opencv-ch4/</loc>
+   <lastmod>2022-03-24T07:59:12+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
 </url>
 <url>
-<loc>https://jaewxxkshin.github.io/categories/DSP</loc>
+   <loc>https://jaewxxkshin.github.io/opencv/opencv-ch3-2/</loc>
+   <lastmod>2022-03-24T07:59:12+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
 </url>
 <url>
-<loc>https://jaewxxkshin.github.io/</loc>
+   <loc>https://jaewxxkshin.github.io/opencv/opencv-ch3-1/</loc>
+   <lastmod>2022-03-24T07:59:12+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
 </url>
 <url>
-<loc>https://jaewxxkshin.github.io/tags/</loc>
+   <loc>https://jaewxxkshin.github.io/blog/blog-2/</loc>
+   <lastmod>2022-03-24T07:59:12+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
 </url>
 <url>
-<loc>https://jaewxxkshin.github.io/page2/</loc>
+   <loc>https://jaewxxkshin.github.io/blog/blog-1/</loc>
+   <lastmod>2022-03-24T07:59:12+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
 </url>
 <url>
-<loc>https://jaewxxkshin.github.io/page3/</loc>
+   <loc>https://jaewxxkshin.github.io/404.html</loc>
+   <lastmod>2022-03-24T07:59:12+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
 </url>
 <url>
-<loc>https://jaewxxkshin.github.io/google8259e15f740a4872.html</loc>
-<lastmod>2022-01-20T21:23:38+09:00</lastmod>
+   <loc>https://jaewxxkshin.github.io/opencv/opencv-ch2/</loc>
+   <lastmod>2022-03-24T07:59:12+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>https://jaewxxkshin.github.io/opencv/opencv-ch1/</loc>
+   <lastmod>2022-03-24T07:59:12+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
 </url>
 </urlset>

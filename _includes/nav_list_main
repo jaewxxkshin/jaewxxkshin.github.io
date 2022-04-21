@@ -62,8 +62,8 @@
         <span class="nav__sub-title">Project</span>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "Capstone" %}
-                        <li><a href="/categories/capstone" class="">Capstone design ({{category[1].size}})</a></li>
+                    {% if category[0] == "Mecanum" %}
+                        <li><a href="/categories/Mecanum" class="">Mecanum project({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>

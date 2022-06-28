@@ -24,13 +24,6 @@
                 {% endfor %}
             </ul>
             <ul>
-                {% for category in site.categories %}
-                    {% if category[0] == "DSP" %}
-                        <li><a href="/categories/DSP" class="">신호 및 시스템 ({{category[1].size}})</a></li>
-                    {% endif %}
-                {% endfor %}
-            </ul>
-            <ul>
                  {% for category in site.categories %}
                      {% if category[0] == "OPIC" %}
                           <li><a href="/categories/OPIC" class="">OPIC ({{category[1].size}})</a></li>

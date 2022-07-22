@@ -1,5 +1,5 @@
 ---
-title: "OPIC - IH도전기"
+title: "OPIC - IH도전기(미드 쉐도잉)"
 layout: archive
 permalink: categories/OPIC
 author_profile: true
